@@ -1,6 +1,6 @@
-# flexbox_sass_rails
+# flexbox
 
-This stylesheet gives you a set of classes you can use to create a responsive flexbox grid in your rails application. It is very similar to [angular material](https://material.angularjs.org) flexbox classes. It's written in sass, you can specify breakpoints for different media query ranges.
+This stylesheet gives you a set of classes you can use to create a responsive flexbox grid in your web application. It is very similar to [angular material](https://material.angularjs.org) flexbox classes. It's written in sass, you can specify breakpoints for different media query ranges.
 
 Note that this project is still a work in progress. The released version contains only features that should work perfectly. There is just a basic set of flexbox classes, but more will be added soon.
 
@@ -20,7 +20,7 @@ To modify viewport width breakpoints, instead of using the css file, import scss
 $fb-layout-sm: 768px;
 $fb-layout-md: 1024px;
 
-@import 'flexbox_sass_rails';
+@import 'flexbox';
 ```
 
 ### Viewport width breakpoints:
@@ -133,7 +133,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/pavelccz/flexbox_sass_rails.
+Bug reports and pull requests are welcome on GitHub at https://github.com/pavelccz/flexbox.
 
 
 ## License
