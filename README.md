@@ -1,6 +1,6 @@
 # flexbox
 
-This stylesheet gives you a set of classes you can use to create a responsive flexbox grid in your web application. It is very similar to [angular material](https://material.angularjs.org) flexbox classes. It's written in sass, you can specify breakpoints for different media query ranges.
+This stylesheet gives you a set of classes you can use to create a responsive flexbox grid in your web application. It is very similar to [angular material](https://material.angularjs.org) flexbox classes. It's written in scss, you can specify breakpoints for different media query ranges.
 
 Note that this project is still a work in progress. The released version contains only features that should work perfectly. There is just a basic set of flexbox classes, but more will be added soon.
 
@@ -139,11 +139,6 @@ fb-flex-order-20
 fb-hide (fb-hide-gt-sm)
 ```
 
-## Development
-
-After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
-
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
 
 ## Contributing
 
