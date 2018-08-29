@@ -12,7 +12,7 @@ Download css file or scss files and add them to your html project.
 
 ### Including flexbox stylesheet in a project:
 
-To use the css as it is add a link tag with it's source path inside head of your html document.
+To use the css as it is add a link tag with its source path inside head of your html document.
 
 To modify viewport width breakpoints, instead of using the css file, import scss files and change the variables:
 
